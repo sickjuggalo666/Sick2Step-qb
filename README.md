@@ -1,2 +1,2 @@
-# Sick2Step-qb
- 2Step For QBCore
+[Docs](https://docs.juggin666.com/)
+[Discord](https://discord.gg/YCsBGB58eg)
